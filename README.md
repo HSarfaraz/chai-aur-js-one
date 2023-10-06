@@ -1,4 +1,4 @@
-# ☕ Chai aur Javascript
+# ☕ Chai aur Javascript 1
 
 <br/>
 
@@ -725,3 +725,227 @@
   - Reduce will work on entire array
   - In reduce methods, we get 2 parameter, one is accumulator and other is current value
   - We can assign the value from which we want to start the value in accumulator
+
+# ☕ Chai aur Javascript 2
+
+<br/>
+
+## Lecture 1: DOM Introduction
+
+- 
+- 
+    - 
+    - **Example:**
+        ```javascript
+
+<hr/>
+<br/>
+
+## Lecture 2: All DOM Selector
+
+- 
+- 
+    - 
+    - **Example:**
+        ```javascript
+
+<hr/>
+<br/>
+
+## Lecture 3: How to create a new element
+
+- 
+- 
+    - 
+    - **Example:**
+        ```javascript
+
+<hr/>
+<br/>
+
+## Lecture 4: Edit and remove DOM element
+
+- 
+- 
+    - 
+    - **Example:**
+        ```javascript
+
+<hr/>
+<br/>
+
+## Lecture 5: Lets build 4 Javascript Project
+
+- 
+- 
+    - 
+    - **Example:**
+        ```javascript
+
+<hr/>
+<br/>
+
+## Lecture 6: Events in Javascript 
+
+- 
+- 
+    - 
+    - **Example:**
+        ```javascript
+
+<hr/>
+<br/>
+
+## Lecture 7: Async code
+
+- 
+- 
+    - 
+    - **Example:**
+        ```javascript
+
+<hr/>
+<br/>
+
+## Lecture 8: 2 Projects with async
+
+- 
+- 
+    - 
+    - **Example:**
+        ```javascript
+
+<hr/>
+<br/>
+
+## Lecture 9: API request and v8 engine
+
+- 
+- 
+    - 
+    - **Example:**
+        ```javascript
+
+<hr/>
+<br/>
+
+## Lecture 10: Promise
+
+- 
+- 
+    - 
+    - **Example:**
+        ```javascript
+
+<hr/>
+<br/>
+
+## Lecture 11: fetch
+
+- 
+- 
+    - 
+    - **Example:**
+        ```javascript
+
+<hr/>
+<br/>
+
+## Lecture 12: Object Oriented Javascript
+
+- 
+- 
+    - 
+    - **Example:**
+        ```javascript
+
+<hr/>
+<br/>
+
+## Lecture 13: Magic of Prototype
+
+- 
+- 
+    - 
+    - **Example:**
+        ```javascript
+
+<hr/>
+<br/>
+
+## Lecture 14: Call and this
+
+- 
+- 
+    - 
+    - **Example:**
+        ```javascript
+
+<hr/>
+<br/>
+
+## Lecture 15: Class and constructor
+
+- 
+- 
+    - 
+    - **Example:**
+        ```javascript
+
+<hr/>
+<br/>
+
+## Lecture 16: Bind
+
+- 
+- 
+    - 
+    - **Example:**
+        ```javascript
+
+<hr/>
+<br/>
+
+## Lecture 17: Now you know Objects
+
+- 
+- 
+    - 
+    - **Example:**
+        ```javascript
+
+<hr/>
+<br/>
+
+## Lecture 18: Getters and setters
+
+- 
+- 
+    - 
+    - **Example:**
+        ```javascript
+
+<hr/>
+<br/>
+
+## Lecture 19: Lexical scope and closure
+
+- 
+- 
+    - 
+    - **Example:**
+        ```javascript
+
+<hr/>
+<br/>
+
+## Lecture 20: Javascript ends with story
+
+- 
+- 
+    - 
+    - **Example:**
+        ```javascript
+
+<hr/>
+<br/>                 
