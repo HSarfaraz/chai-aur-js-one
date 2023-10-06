@@ -111,9 +111,9 @@
 - ndefined ➜ means some value is not defined
 - Symbol datatype is used to fincdout the uniquness ➜ it is used in react, to find the component
 - typeof ➜ to know the type of any variable, we use typeof
-- **Example:** ```javascript console.log(typeof "sarfaraz") ➜ string
-- Commit and push the change
-
+- **Example:**
+  ```javascript
+  console.log(typeof "sarfaraz") ➜ string
 
 <hr/>
 <br/>
@@ -122,8 +122,8 @@
 
 - We dont in javascript, what type of value we get, so we need to use conversion of datatype
 - We can write typeof in 2 ways
-- typeof variablename
-- typeof(variableName)
+  - typeof variablename
+  - typeof(variableName)
 - To convert string into Number, we use Number(variableName);
 - When value is not proper number like 33abc, its type is NaN
 - In Javascript, there is no strict check, so we use typescript
@@ -131,17 +131,19 @@
 - Conversion of undefined into number is NaN
 - Conversion of boolean into number is false
 - Conversion of string into number is NaN, as it is not able to convert into number
-- Number conversion summary:
-  - "33" => 33
-  - "33abc" => NaN
-  - true => 1; false =>0
+- **Number conversion summary:**
+  ```javascript
+  "33" => 33
+  "33abc" => NaN
+  true => 1; false =>0
 - It is very important to know, is the value is converted and know what value it gives us back.
 - Conversion of 1 gives true
 - Conversion of "" emty string gives false;
-- Boolean conversion summary:
-  - 1 => true, 0=> false
-  - "" => false
-  - "Sarfaraz" => true
+- **Boolean conversion summary:**
+  ```javascript
+  1 => true, 0=> false
+  "" => false
+  "Sarfaraz" => true
 
 
 <hr/>
@@ -152,7 +154,9 @@
 - if string is 1st then all conversion will into string
 - **Example:** ```javascript console.log("1"+2+2) ➜ 122```
 - If the string is last then conversion will be done before that then string will be added
-- **Example:**```javascript console.log(1+2+"2") ➜ 32
+- **Example:**
+  ```javascript
+  console.log(1+2+"2") ➜ 32
 - Should know about more about convertion: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment
 
 
@@ -166,7 +170,7 @@
 - While comparion null is converted into 0 or NaN, example console.log(null > 0), means 0 > 0, hence answer is false. So avoid only value check but use value with datatype check.
 - Comparison with undefined with 0 is always false, example: console.log(undefined == 0); it gives false
 - In Javascript, comparison and equality check both work differently
-- ==== Strict check, it will check value as well as data type
+- **==== Strict check:** it will check value as well as data type
 
 
 <hr/>
@@ -218,8 +222,8 @@
 - Through string, we can use modern syntax to write it.
 - We denote string single or double quote '' / ""
 - In modern days, we need to use backticks `` for strin manipulation called string interpolation.
-- All methods are available in __proto__ for string, example toUpperCase() etc
-- If we use methods related to __proto__ then original value is not changed.
+- All methods are available in **__proto__** for string, example toUpperCase() etc
+- If we use methods related to **__proto__** then original value is not changed.
 - we can check what character available we use charAt(index)
 - **indexOf('charactor') :** we can get the index of the charactor
 - **substring(0,4)** the last value is excluded.
