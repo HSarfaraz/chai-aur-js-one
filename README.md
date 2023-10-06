@@ -271,9 +271,11 @@
   ```javascript
   let newDate = new Date();
   console.log(newDate.getMonth()+1) ➜ 9, added 1 as date always starts with 0.
-- We can customise the date format,
+- We can customise the date format, 
+
   **Example:**
-  ```javascript newDate.toLocaleString('default',{ weekday: "short"}) ➜ Wed, as today is Wednesday
+  ```javascript
+  newDate.toLocaleString('default',{ weekday: "short"}) ➜ Wed, as today is Wednesday
 
 
 <hr/>
@@ -641,7 +643,7 @@
 - So we need to iterate it, so use higher order array loops
 - string, array, objects are iterators, so we can use loops on it.
 - **Syntax of for...of loop:**
-- ```javascript
+  ```javascript
         for(const iterator of object){
 
         }
@@ -654,7 +656,7 @@
 - Map is like object with slight difference
 - Map is used to store unique values, persist the same order how it entered
 - We can iterate the Map using for...of loop by destructuring the value
-- ```javascript
+  ```javascript
         for(const [key, value] of countries){
             console.log(`Key: ${key} Value: ${value}`)
         }
@@ -664,8 +666,8 @@
 #### Object iteration:
 
   #### for...in loops
-  - for...in loop syntax
-  - ```javascript
+  - **for...in loop syntax:**
+    ```javascript
           for(const key in myObject){
   
           }
